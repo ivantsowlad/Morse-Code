@@ -63,10 +63,6 @@ No external dependencies are required.
 
 Pull requests are welcome! If you find a bug or want a new feature, feel free to open an issue or submit a PR.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Author
 
 - [ivantsowlad](https://github.com/ivantsowlad)
